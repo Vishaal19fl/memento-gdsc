@@ -159,7 +159,7 @@ function Gig() {
               ))}
             </div>
             <div className="btns">
-            <Link to={`http://127.0.0.1:5500/client/arview/arview.html`}>
+            <Link to={`https://playcanv.as/p/ncGFla5F/`}>
             <button className="btn1">View AR</button>
             </Link>
 
