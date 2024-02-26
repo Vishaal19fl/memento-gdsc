@@ -20,6 +20,17 @@ Memento is a web application developed as a project for the GDSC Solution Challe
 - **Database**: MongoDB for efficient data storage and retrieval.
 - **Image Upload**: Cloudinary for secure image storage and management.
 
+---
+
+**Repository Structure:**
+| Directory     | Description                           |
+| ------------- | ------------------------------------- |
+| /api      | Houses the backend codebase developed with MongoDB and the server side code with express.js. |
+| /client     | Contains the frontend codebase built with React.js. |
+
+
+---
+
 ## Getting Started
 1. Clone the repository:
 
@@ -52,4 +63,103 @@ Memento is a web application developed as a project for the GDSC Solution Challe
    ```
 
 5. Open your browser and navigate to `http://localhost:3000` to view the application.
+
+---
+
+**Team:**
+| Name           | GitHub Username |
+| -------------- | --------------- |
+| Meena          | @Meena-Ramalingam          |
+| Shakithiyan    | @Shock-22   |
+| Vishaal        | @Vishaal-Sathya       |
+| Mentor         | Rakesh Kumar    | @RakeshMahi |
+
+---
+
+   Certainly! Here's an expanded version of the documentation with additional sections including tables and more detailed information:
+
+---
+
+**Project Name: RuralCrafts**
+
+**Description:**
+RuralCrafts is an innovative platform designed to empower rural artisans and preserve traditional craftsmanship. Leveraging modern technologies, such as React.js for the frontend, MongoDB for the backend, and Vite for rapid development, RuralCrafts connects buyers with authentic handmade products while supporting artisans' livelihoods. This documentation provides an overview of the project structure, installation instructions, usage guidelines, contribution guidelines, team members, and licensing information.
+
+---
+
+**Repository Structure:**
+| Directory     | Description                           |
+| ------------- | ------------------------------------- |
+| /frontend     | Contains the frontend codebase built with React.js. |
+| /backend      | Houses the backend codebase developed with MongoDB. |
+| /docs         | Stores project documentation, including this README file. |
+
+---
+
+**Installation:**
+1. Clone the repository: 
+   ```
+   git clone https://github.com/your-username/RuralCrafts.git
+   ```
+2. Navigate to the project directory: 
+   ```
+   cd RuralCrafts
+   ```
+3. Install dependencies for the frontend: 
+   ```
+   cd frontend && npm install
+   ```
+4. Install dependencies for the backend: 
+   ```
+   cd ../backend && npm install
+   ```
+
+---
+
+**Usage:**
+1. Start the frontend development server: 
+   ```
+   cd ../frontend && npm start
+   ```
+2. Start the backend server: 
+   ```
+   cd ../backend && npm start
+   ```
+3. Access the application at `http://localhost:3000` in your web browser.
+
+---
+
+**Contribution Guidelines:**
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix: 
+   ```
+   git checkout -b feature-name
+   ```
+3. Make your changes and commit them: 
+   ```
+   git commit -m "Your commit message"
+   ```
+4. Push your changes to your fork: 
+   ```
+   git push origin feature-name
+   ```
+5. Submit a pull request to the main repository's `main` branch.
+
+
+
+**License:**
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+---
+
+**Contact:**
+For inquiries or assistance, please reach out to [email@example.com](mailto:email@example.com).
+
+---
+
+**Note:** Ensure to replace placeholders (e.g., "your-username", "feature-name", "email@example.com") with actual values.
+
+--- 
+
+This expanded documentation provides a comprehensive overview of the project, including its structure, installation, usage, contribution guidelines, team members, licensing information, and contact details.
 
