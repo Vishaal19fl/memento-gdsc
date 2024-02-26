@@ -13,7 +13,6 @@ Memento is a web application developed as a project for the GDSC Solution Challe
 - **Artisan Profiles:** Profiles for individual artisans showcasing their work, background, and skills, allowing users to learn more about the creators behind the products.
 - **Localization:** Support for multiple languages and currencies to cater to users from diverse cultural backgrounds and regions.
 
-These features focus on enhancing product discovery, personalization, convenience, learning, and accessibility for users, contributing to a richer and more engaging experience on the RuralCrafts platform.
 
 ## Technologies Used
 - **Frontend**: React.js for building dynamic and responsive user interfaces.
