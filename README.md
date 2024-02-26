@@ -78,9 +78,10 @@ Make sure to replace `your-mongodb-uri`, `your-cloudinary-api-key`, and `your-cl
 **Team:**
 | Name      | GitHub Username |
 | -------------- | --------------- |
+| Vishaal Krishna    | @Vishaal19fl    |
 | Meena     | @Meena-Ramalingam     |
 | Shakithiyan  | @Shock-22  |
-| Vishaal    | @Vishaal-Sathya    |
-| Mentor     | Rakesh Kumar  | @RakeshMahi |
+| Vishaal S    | @Vishaal-Sathya    |
+| Mentor     | Rakesh Kumar (@RakeshMahi)  |  
 
 ---
