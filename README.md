@@ -15,11 +15,13 @@ Memento is a web application developed as a project for the GDSC Solution Challe
 
 
 ## Technologies Used
-- **Frontend**: React.js for building dynamic and responsive user interfaces.
+- **Frontend**: React.js for building dynamic and responsive user interfaces. 
 - **Backend**: Express.js and Vite for server-side logic and API development.
 - **Database**: MongoDB for efficient data storage and retrieval.
 - **Image Upload**: Cloudinary for secure image storage and management.
 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React Logo" width="100px">  <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="Mongo Logo" width="100px">
+ 
 ---
 
 **Repository Structure:**
