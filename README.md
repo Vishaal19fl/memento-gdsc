@@ -6,10 +6,14 @@
 Memento is a web application developed as a project for the GDSC Solution Challenge. It is an online marketplace which specifically showcases Indian traditional products like pots, sculptures, handmade jewellery and dresses. The primary focus is on uplifting the livelihoods of rural artisans.
 
 ## Features
-- **Tailored Recommendations**: Our platform offers personalized recommendations based on user preferences and location, ensuring relevance and convenience.
-- **Optimized Routes**: Users can access optimized routes for commuting, considering factors such as traffic conditions and public transportation schedules.
-- **Real-time Updates**: Integration of real-time updates ensures that users stay informed about changes or disruptions affecting their daily routines.
-- **Image Upload**: Cloudinary integration allows users to securely upload and manage images, enhancing the visual experience of the application.
+
+- **Browse Categories:** Users can explore various categories of traditional products such as pottery, sculptures, jewelry, clothing, and paintings.
+- **Product Customization:** Users have the option to customize certain products according to their preferences, such as adding personalized engravings or selecting specific colors and designs.
+- **Subscription Service:** Offering a subscription service where users receive a curated list of products from featured artisans every month, providing them with a convenient way to discover new items.
+- **Artisan Profiles:** Profiles for individual artisans showcasing their work, background, and skills, allowing users to learn more about the creators behind the products.
+- **Localization:** Support for multiple languages and currencies to cater to users from diverse cultural backgrounds and regions.
+
+These features focus on enhancing product discovery, personalization, convenience, learning, and accessibility for users, contributing to a richer and more engaging experience on the RuralCrafts platform.
 
 ## Technologies Used
 - **Frontend**: React.js for building dynamic and responsive user interfaces.
