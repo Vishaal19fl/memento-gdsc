@@ -32,37 +32,37 @@ Memento is a web application developed as a project for the GDSC Solution Challe
 ---
 
 ## Getting Started
-1. Clone the repository:
 
-  ```bash
-  git clone https://github.com/Vishaal19fl/memento-gdsc.git
-  ```
 
-2. Install dependencies:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Vishaal19fl/memento-gdsc.git
+   ```
 
-  ```bash
-  cd memento-gdsc
-  npm install
-  ```
+2. **Install dependencies:**
+   ```bash
+   cd memento-gdsc
+   npm install
+   ```
 
-3. Set up environment variables:
+3. **Set up environment variables:**
+   Create a `.env` file in the root directory and add the following:
+   ```
+   PORT=3000
+   MONGO=your-mongodb-uri
+   CLOUDINARY_API_KEY=your-cloudinary-api-key
+   CLOUDINARY_API_SECRET=your-cloudinary-api-secret
+   ```
 
-  Create a `.env` file in the root directory and add the following:
+4. **Start the development server:**
+   ```bash
+   npm start
+   ```
 
-  ```plaintext
-  PORT=3000
-  MONGO=your-mongodb-uri
-  CLOUDINARY_API_KEY=your-cloudinary-api-key
-  CLOUDINARY_API_SECRET=your-cloudinary-api-secret
-  ```
+5. **Open your browser:**
+   Navigate to http://localhost:3000 to view the application.
 
-4. Start the development server:
-
-  ```bash
-  npm start
-  ```
-
-5. Open your browser and navigate to `http://localhost:3000` to view the application.
+Make sure to replace `your-mongodb-uri`, `your-cloudinary-api-key`, and `your-cloudinary-api-secret` with your actual MongoDB URI and Cloudinary API credentials. This will ensure proper functioning of the application.
 
 ---
 
