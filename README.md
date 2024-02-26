@@ -56,12 +56,19 @@ Memento is a web application developed as a project for the GDSC Solution Challe
    CLOUDINARY_API_SECRET=your-cloudinary-api-secret
    ```
 
-4. **Start the development server:**
+4. **Start the backend server:**
    ```bash
-   npm start
+   cd api
+   yarn start
    ```
+   
+5. **Start the frontend server:**
+   ```bash
+   cd client
+   yarn dev --host
+   ```   
 
-5. **Open your browser:**
+6. **Open your browser:**
    Navigate to http://localhost:3000 to view the application.
 
 Make sure to replace `your-mongodb-uri`, `your-cloudinary-api-key`, and `your-cloudinary-api-secret` with your actual MongoDB URI and Cloudinary API credentials. This will ensure proper functioning of the application.
