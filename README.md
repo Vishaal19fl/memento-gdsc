@@ -1,4 +1,6 @@
-**# Memento**
+
+
+# Memento
 
 ## Overview
 Memento is a web application developed as a project for the GDSC Solution Challenge. It is an online marketplace which specifically showcases Indian traditional products like pots, sculptures, handmade jewellery and dresses. The primary focus is on uplifting the livelihoods of rural artisans.
@@ -13,10 +15,9 @@ Memento is a web application developed as a project for the GDSC Solution Challe
 
 
 ## Technologies Used
-
-- **Frontend**: React.js for building dynamic and responsive user interfaces. [Image of React icon]
+- **Frontend**: React.js for building dynamic and responsive user interfaces.
 - **Backend**: Express.js and Vite for server-side logic and API development.
-- **Database**: MongoDB for efficient data storage and retrieval. [Image of MongoDB icon]
+- **Database**: MongoDB for efficient data storage and retrieval.
 - **Image Upload**: Cloudinary for secure image storage and management.
 
 ---
@@ -72,3 +73,5 @@ Memento is a web application developed as a project for the GDSC Solution Challe
 | Shakithiyan  | @Shock-22  |
 | Vishaal    | @Vishaal-Sathya    |
 | Mentor     | Rakesh Kumar  | @RakeshMahi |
+
+---
